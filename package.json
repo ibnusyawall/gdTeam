@@ -1,0 +1,24 @@
+{
+  "name": "gdteam",
+  "version": "1.0.0",
+  "description": "create google drive unlimited team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/gdTeam.git"
+  },
+  "author": "ibnusyawall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/gdTeam/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/gdTeam#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline": "^1.3.0",
+    "superagent": "^5.2.2"
+  }
+}
